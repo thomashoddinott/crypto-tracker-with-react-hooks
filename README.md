@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+**The code is live: [https://thomashoddinott.github.io/crypto-tracker-with-react-hooks](https://thomashoddinott.github.io/crypto-tracker-with-react-hooks)**
+
+In this project we use Axios to consume a crypto-tracking API and then add React to create a stylish dashboard.
+
+See: [React API Project - Cryptocurrency Finance Price Tracker App Using Hooks and Axios](https://www.youtube.com/watch?v=9ohK7CapmIs)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
