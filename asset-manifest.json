@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crypto-tracker-with-react-hooks/static/css/main.dbf53003.chunk.css",
+    "main.js": "/crypto-tracker-with-react-hooks/static/js/main.b4cf539f.chunk.js",
+    "main.js.map": "/crypto-tracker-with-react-hooks/static/js/main.b4cf539f.chunk.js.map",
+    "runtime-main.js": "/crypto-tracker-with-react-hooks/static/js/runtime-main.9ad5b8b6.js",
+    "runtime-main.js.map": "/crypto-tracker-with-react-hooks/static/js/runtime-main.9ad5b8b6.js.map",
+    "static/js/2.c6bfc970.chunk.js": "/crypto-tracker-with-react-hooks/static/js/2.c6bfc970.chunk.js",
+    "static/js/2.c6bfc970.chunk.js.map": "/crypto-tracker-with-react-hooks/static/js/2.c6bfc970.chunk.js.map",
+    "static/js/3.30239fc1.chunk.js": "/crypto-tracker-with-react-hooks/static/js/3.30239fc1.chunk.js",
+    "static/js/3.30239fc1.chunk.js.map": "/crypto-tracker-with-react-hooks/static/js/3.30239fc1.chunk.js.map",
+    "index.html": "/crypto-tracker-with-react-hooks/index.html",
+    "static/css/main.dbf53003.chunk.css.map": "/crypto-tracker-with-react-hooks/static/css/main.dbf53003.chunk.css.map",
+    "static/js/2.c6bfc970.chunk.js.LICENSE.txt": "/crypto-tracker-with-react-hooks/static/js/2.c6bfc970.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ad5b8b6.js",
+    "static/js/2.c6bfc970.chunk.js",
+    "static/css/main.dbf53003.chunk.css",
+    "static/js/main.b4cf539f.chunk.js"
+  ]
+}
