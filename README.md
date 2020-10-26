@@ -1,4 +1,4 @@
-**The code is live: [https://thomashoddinott.github.io/crypto-tracker-with-react-hooks](https://thomashoddinott.github.io/crypto-tracker-with-react-hooks)**
+**The code is live: [https://thomashoddinott.github.io/crypto-tracker-with-react-hooks/](https://thomashoddinott.github.io/crypto-tracker-with-react-hooks/)**
 
 In this project we use Axios to consume a crypto-tracking API and then add React to create a stylish dashboard.
 
